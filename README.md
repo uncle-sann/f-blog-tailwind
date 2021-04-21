@@ -2,7 +2,7 @@
 
 Made with Tailwind css
 
-To view whole desing go to : <br>
+To view whole design go to : <br>
 <a href="https://htmlpreview.github.io/?https://github.com/Babanyyaz-coder/f-blog-tailwind/blob/main/public/index.html"> Here </a> <br>
 Please wait for a while cause it partly fails rendering css
 
